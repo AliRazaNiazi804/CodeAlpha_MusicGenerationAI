@@ -1,0 +1,9 @@
+tkinter>=0.0.0
+translate>=4.0.0
+pyttsx3>=2.90
+pyperclip>=1.8.2
+music21>=9.0.0
+pillow>=10.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+difflib2>=0.1.0
